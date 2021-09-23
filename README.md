@@ -18,7 +18,14 @@ Projeto simples derivado do design e estrutura propostos pela Front End Mentor. 
 *Estruturação*: HTMl     
 
 ## Funcionalidades
-Página Estática
+Página Estática, porém segue todos os requisitos do desafio, tais como responsividade, estado hover sobre elementos e menu hamburguer para dispositivos mobile.
+
+## Visual final
+<a href="https://ibb.co/SV3YgWQ"><img src="https://i.ibb.co/r5w8hTb/a.png" alt="a" border="0"></a>
+<a href="https://ibb.co/2S1vjdz"><img src="https://i.ibb.co/JqwvzHY/b.png" alt="b" border="0"></a>
+<a href="https://ibb.co/kDJTNwf"><img src="https://i.ibb.co/ZgSrqFP/c.png" alt="c" border="0"></a>
+<a href="https://ibb.co/kBzvbtZ"><img src="https://i.ibb.co/nm4tdFp/d.png" alt="d" border="0"></a>
+<a href="https://ibb.co/RNFhXW7"><img src="https://i.ibb.co/PMLT28t/e.png" alt="e" border="0"></a>
 
 ## Requisitos para manipular código
 * Nenhum
