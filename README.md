@@ -1,45 +1,48 @@
-### SunnySide Front-End Mentor Challenge
-Página web estática como desafio proposto pela plataforma Front End Mentor.  
-🔗 https://samuel0102.github.io/sunnyside-frontendMentor-challenge/
+# SunnySide
+Front-End Project made with HTML5 and CSS to implementate the Front-End Mentor Challenge
 
-# Sobre o projeto
+## About the project
 
-## Introdução
-Projeto simples derivado do design e estrutura propostos pela Front End Mentor. Como desafio, era necessário apresentar um design o mais próximo do original e também que fosse responsivo e com estado "hover" nos elementos.
+### Final Visual
 
-## Especificações
-*Autor*: Samuel Pacheco Ferreira    
-*Descrição*: Projeto Front End estático  
-*Andamento*: Finalizado         
-*Terá atualizações*:  Não          
+#### Desktop
 
-## Tecnologias
-*Tecnologias utilizadas*: HTML, CSS e JS         
-*IDE*: Visual Studio Code.        
-*Estruturação*: HTMl     
+![image](https://user-images.githubusercontent.com/61472839/201794008-8be42938-548e-4952-86f4-2871a0c172fa.png)
 
-## Funcionalidades
-Página Estática, porém segue todos os requisitos do desafio, tais como responsividade, estado hover sobre elementos e menu hamburguer para dispositivos mobile.
 
-## Visual final
-<a href="https://ibb.co/SV3YgWQ"><img src="https://i.ibb.co/r5w8hTb/a.png" alt="a" border="0"></a>
-<a href="https://ibb.co/2S1vjdz"><img src="https://i.ibb.co/JqwvzHY/b.png" alt="b" border="0"></a>
-<a href="https://ibb.co/kDJTNwf"><img src="https://i.ibb.co/ZgSrqFP/c.png" alt="c" border="0"></a>
-<a href="https://ibb.co/kBzvbtZ"><img src="https://i.ibb.co/nm4tdFp/d.png" alt="d" border="0"></a>
-<a href="https://ibb.co/RNFhXW7"><img src="https://i.ibb.co/PMLT28t/e.png" alt="e" border="0"></a>
+#### Mobile
 
-## Requisitos para manipular código
-* Nenhum
+![image](https://user-images.githubusercontent.com/61472839/201794031-7f800575-e456-46d2-a49d-646730658dfe.png)
 
-## Execução do sistema
-1. Execução do arquivo "index.html" 
 
-## Documentações do sistema e outros arquivos
-* Nenhum item complementar
+### Introduction
+This project has the main focus to only use CSS and HTML5 to implementate a design of the Front-End Mentor Platform. Following the requirements of the challenge the website is fully responsive
 
-## Origem do projeto
-:link: https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub/sunnyside-agency-landing-page-5js3zgLs9
+### Especifications
+*Author*: Samuel Pacheco Ferreira    
+*Description*: Front-End Project to use only HTML5 and CSS3 to implementate Front-End Mentor Challenge   
+*Stage*: Finished       
+*Will be updated?*: No          
 
-## Principais dificuldades
-* Menu responsivo, primeira vez fazendo utilizando puro JavaScript 
+### Technologies
+*Technologies*: HTML5 and CSS         
+*IDE*: Visual Studio Code        
+*Main Structure*: HTML5     
 
+### Functionalities
+* Static Page
+
+### Requirements to coding
+* No requirements
+
+### System Execution
+1. Open the "index.html" file in any browser
+
+### Documentation or other files
+:link: 
+
+### Project Origin
+* Front-End Mentor Challenge
+:link: https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef
+
+### Main Challenges of the project
